@@ -1,0 +1,15 @@
+Software Required:
+  IBM Cloud,
+  HTML,
+  Javascript,
+  IBM Cloud Object Storage,
+  Python-Flask,
+  Kubernetes,
+  Docker,
+  IBM DB2,
+  IBM Container Registry
+
+System Required:
+  8GB RAM,
+  Intel Core i3,
+  OS-Windows/Linux/MAC
