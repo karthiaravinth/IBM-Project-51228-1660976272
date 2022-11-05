@@ -22,6 +22,6 @@
 
 ![Loading](https://github.com/karthiaravinth/IBM-Project-51228-1660976272/blob/abb1defb05e3fce762a2b519eb2977a6b04ad4fb/Assignment%203/Team_Member1_Aravinth/screenshots/WA-Chatbot1.png)
 
-## Watson-ASsistant HTML Page Inherit:
+## Watson-Assistant HTML Page Inherit:
 
 ![Loading](https://github.com/karthiaravinth/IBM-Project-51228-1660976272/blob/abb1defb05e3fce762a2b519eb2977a6b04ad4fb/Assignment%203/Team_Member1_Aravinth/screenshots/WA-Html%20link.png)
