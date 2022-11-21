@@ -1,0 +1,60 @@
+{% extends "layout.html" %}
+
+{% block title %}
+Register
+{% endblock %}
+
+{% block main %}
+<style >
+    main{
+        /* Only for login page */
+        background-image: url(../static/bg_front8.jfif) ;
+        background-size: cover;
+        height: 100%;
+        overflow: hidden;
+    }
+</style>
+<h2>Personal Expense Tracker</h2>
+<small class="text-muted"><em>Welcomes</em></small><br>
+<img class="mb-4" src="/static/logo.png" alt="Personal Expense Tracker logo" width="90" height="90">
+
+<br>
+<h1 class="h3 mb-3 font-weight-normal">Register Account</h1>
+{% if username %}
+<div class="alert alert-dismissible alert-danger">
+    <button type="button" class="close" data-dismiss="alert">&times;</button>
+    <h6 class="alert-heading">Oh Sad!</h6>
+    The username '{{ username }}' is taken. Please try a new one.
+</div>
+{% endif %}
+{% if username1 %}
+<div class="alert alert-dismissible alert-danger">
+    <button type="button" class="close" data-dismiss="alert">&times;</button>
+    <h6 class="alert-heading">Check it!</h6>
+    Hi '{{ username1 }}' check password. The both password must be same.
+</div>
+{% endif %}
+<form action="/register" method="post">
+    <input type="hidden" name="csrf_token" value="{{ csrf_token() }}" />
+    <div class="form-group">
+        <label>Username : </label>
+        <input autocomplete="off" autofocus class="form-control validate-register" name="username" id="username"
+            type="text" required pattern="^[a-zA-Z0-9_]{3,16}$"
+            title="lower/upper case letters and _ and numbers only(3 to 16 char allowed)">
+    </div>
+    <div class="form-group">
+        <label>Password : </label>
+        <input class="form-control validate-register" name="password" id="password" type="password" required
+            pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}"
+            title="Length must be at least 8 characters and contain minimum of one number, one lowercase letter, and one uppercase letter. Your password is safe with us and saved in ecrypted form.">
+    </div>
+    <div class="form-group">
+        <label>Confirm ps: </label>
+        <input class="form-control validate-register" name="con_password" id="con_password" type="password" required
+            pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}"
+            title="Length must be at least 8 characters and contain minimum of one number, one lowercase letter, and one uppercase letter. Your password is safe with us and saved in ecrypted form.">
+    </div>
+    <br>
+    <button class="btn btn-info" id="btnRegister" type="submit">Register</button>
+</form>
+{% endblock %}
