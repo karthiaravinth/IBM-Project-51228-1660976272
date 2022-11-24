@@ -2,9 +2,9 @@
 Application to track expenses of the user
 
 ### Idea :
-- [Idea](Ideation%20phase/Ideation.docx)
-- [Empathy Map](Ideation%20phase/Empathy%20Map.jpg)
-- [Literature Survey](Ideation%20phase/literature%20survey%20PET.docx)
+- [Idea](../Ideation%20phase/Ideation.docx)
+- [Empathy Map](../Ideation%20phase/Empathy%20Map.jpg)
+- [Literature Survey](../Ideation%20phase/literature%20survey%20PET.docx)
 
 ### Software Required:
   HTML,
