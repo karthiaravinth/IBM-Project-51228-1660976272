@@ -33,10 +33,17 @@ Application to track expenses of the user
     
  ***Rent, utilities, equipment, furniture, inventory, licenses, insurance, marketing, staff – small businesses incur all sorts of expenses. It’s essential that you keep careful track of all your spending to make sure you stay on budget***.
 
-##  BEFORE
+## BEFORE
 
 **Fear of spending lot of money and couldn't manage their expenses.**
 
 ## AFTER
 
 **They can manage their expense**
+
+## Link
+
+- [Video 1](https://youtu.be/vT7V5dnK8z0)
+- [Video 2](https://youtu.be/9ZNP91P6TBY)
+- [Report ](Report%20PET.pdf)
+- [GitHub ](https://github.com/karthiaravinth/IBM-Project-51228-1660976272)
