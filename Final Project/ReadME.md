@@ -34,15 +34,15 @@ Application to track expenses of the user
  ***Rent, utilities, equipment, furniture, inventory, licenses, insurance, marketing, staff – small businesses incur all sorts of expenses. It’s essential that you keep careful track of all your spending to make sure you stay on budget***.
 ### OUTPUT
 
-## Dashboard
+# Dashboard
 ![Dashboard](Outputs/Dashboard.png)
-## Add Expenses
+# Add Expenses
 ![Add Expenses](Outputs/Add%20Expenses.png)
-## Budgets
+# Budgets
 ![Budgets](Outputs/Budgets.png)
-## Spend Categories
+# Spend Categories
 ![Spend Categories](Outputs/Spend%20Categories.png)
-## Reports
+# Reports
 ![Reports](Outputs/Reports.png)
 
 ## BEFORE
