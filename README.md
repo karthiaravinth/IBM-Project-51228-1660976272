@@ -35,7 +35,7 @@ Application to track expenses of the user
 ## OUTPUT
 
 #### Dashboard
-![Dashboard](Outputs/Dashboard.png)
+![Dashboard](Final%20Project/Outputs/Dashboard.png)
 #### Add Expenses
 ![Add Expenses](Outputs/Add%20Expenses.png)
 #### Budgets
