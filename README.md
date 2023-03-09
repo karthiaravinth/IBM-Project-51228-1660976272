@@ -37,13 +37,13 @@ Application to track expenses of the user
 #### Dashboard
 ![Dashboard](Final%20Project/Outputs/Dashboard.png)
 #### Add Expenses
-![Add Expenses](Outputs/Add%20Expenses.png)
+![Add Expenses](Final%20Project/Outputs/Add%20Expenses.png)
 #### Budgets
-![Budgets](Outputs/Budgets.png)
+![Budgets](Final%20Project/Outputs/Budgets.png)
 #### Spend Categories
-![Spend Categories](Outputs/Spend%20Categories.png)
+![Spend Categories](Final%20Project/Outputs/Spend%20Categories.png)
 #### Reports
-![Reports](Outputs/Reports.png)
+![Reports](Final%20Project/Outputs/Reports.png)
 
 ## BEFORE
 
