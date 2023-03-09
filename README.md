@@ -35,9 +35,9 @@ Application to track expenses of the user
 ## OUTPUT
 
 #### Dashboard
-![Dashboato rd](Outputs/Dashboard.png)
+![Dashboard](Outputs/Dashboard.png)
 #### Add Expenses
-![Add Expenses]expensess/Add%20Expenses.png)
+![Add Expenses](Outputs/Add%20Expenses.png)
 #### Budgets
 ![Budgets](Outputs/Budgets.png)
 #### Spend Categories
